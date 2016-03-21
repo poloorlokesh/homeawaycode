@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="UI Assignment Suite">
+
+	<test name="UIAssignmentTests">
+		<classes>
+			<class name="com.homeaway.uitests.HomeAwayUITest" />
+		</classes>
+	</test>
+</suite>
